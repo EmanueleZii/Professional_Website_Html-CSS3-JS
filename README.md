@@ -3,4 +3,4 @@
 <span>Link Al Sito:</span><a href="https://emanuelezii.github.io/Professional_Website_Html-CSS3-JS/">Link</a><br>
 
 
-<img href="https://github.com/user-attachments/assets/9af73981-1083-41b7-a149-196098a6dd85" ><br>
+<img src="https://github.com/user-attachments/assets/9af73981-1083-41b7-a149-196098a6dd85" ><br>
